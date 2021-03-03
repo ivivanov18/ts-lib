@@ -23,5 +23,9 @@
   "volta": {
     "node": "14.15.5",
     "yarn": "1.22.10"
+  },
+  "dependencies": {
+    "@microsoft/api-documenter": "^7.12.8",
+    "@microsoft/api-extractor": "^7.13.1"
   }
 }
